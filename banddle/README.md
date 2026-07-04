@@ -1,4 +1,4 @@
-——# Banddle — Technical Case Study
+# Banddle — Technical Case Study
 
 **Live at [banddle.com](https://www.banddle.com)**
 
